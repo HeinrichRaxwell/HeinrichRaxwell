@@ -35,22 +35,10 @@
 - 💡 &nbsp;Suka eksplorasi teknologi baru & bikin side project
 - 🤝 &nbsp;Open buat **kolaborasi & ngerjain project bareng**
 - 📍 &nbsp;Based in **Jakarta, Indonesia**
-- ⚡ &nbsp;Fun fact: Debug sampai subuh udah jadi rutinitas 😂
 
 <br clear="right"/>
 
 ---
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
 
 ### ⚙️ Backend
 <p>
@@ -78,58 +66,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeinrichRaxwell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=HeinrichRaxwell&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinrichRaxwell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" width="48%" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeinrichRaxwell&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff" width="95%"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeinrichRaxwell&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📚 **[Library Management System](https://github.com/HeinrichRaxwell)** | Sistem manajemen perpustakaan berbasis web | Django · React · PostgreSQL |
-| 🌐 **[Company Profile Website](https://github.com/HeinrichRaxwell)** | Website company profile construction | HTML · CSS · JavaScript |
-| 📱 **[Mobile App Project](https://github.com/HeinrichRaxwell)** | Aplikasi mobile untuk tugas kuliah | Java · Android Studio |
-| 🔬 **[IoT Project](https://github.com/HeinrichRaxwell)** | Smart monitoring berbasis IoT | Python · Arduino · MQTT |
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-- [x] 🌱 Konsisten ngoding tiap hari
-- [ ] 🚀 Deploy minimal 3 project ke production
-- [ ] 📖 Kuasai React & Next.js
-- [ ] 🤝 Kontribusi ke open source project
-- [ ] 🎓 Selesaikan semester dengan IPK bagus 💪
 
 ---
 

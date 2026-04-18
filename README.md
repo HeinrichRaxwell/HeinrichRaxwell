@@ -27,21 +27,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-```javascript
-const me = {
-  name:       "Haidar Reyhan",
-  university: "Universitas Pamulang (UNPAM)",
-  major:      "Teknik Informatika 💻",
-  location:   "Jakarta, Indonesia 🇮🇩",
-  interests:  ["Web Development", "Mobile Apps", "IoT", "Software Engineering"],
-  hobbies:    ["Ngoding ☕", "Gaming 🎮", "Exploring Tech 🔍", "Traveling ✈️"],
-  learning:   ["React.js", "Django", "Next.js", "Machine Learning"],
-  motto:      "Keep learning, keep building, keep growing 🌱"
-};
-```
-
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
 
 - 🎓 &nbsp;Mahasiswa **Teknik Informatika** di **Universitas Pamulang**

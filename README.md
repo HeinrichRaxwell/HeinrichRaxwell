@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,45:155e75,75:0f766e,100:5eead4&amp;height=240&amp;section=header&amp;text=Heinrich%20Raxwell&amp;fontSize=52&amp;fontColor=f8fafc&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Informatics%20Engineering%20Student%20%7C%20Software%2C%20Mobile%2C%20ML%20and%20Trading%20Systems&amp;descAlignY=58&amp;descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:020617,28:0f172a,58:2563eb,82:0f766e,100:5eead4&amp;height=270&amp;section=header&amp;text=Heinrich%20Raxwell&amp;fontSize=62&amp;fontColor=f8fafc&amp;animation=scaleIn&amp;fontAlignY=43&amp;desc=Build%20%7C%20Learn%20%7C%20Ship%20%7C%20Improve&amp;descSize=18&amp;descAlignY=68&amp;descAlign=50&amp;fontFamily=Arial%20Black&amp;stroke=38bdf8&amp;strokeWidth=1"
     alt="Heinrich Raxwell animated profile header"
   />
 </div>
@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1100&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Informatics+Engineering+Student;Web+and+Mobile+Development;Flutter+and+iOS+Exploration;Machine+Learning+Basics;Trading+Systems+and+Market+Analysis"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Informatics+Engineering+Student;Building+Practical+Software+Projects;Flutter+and+iOS+Exploration;Machine+Learning+Basics;Trading+Systems+and+Market+Analysis"
       alt="Typing animation showing current learning focus"
     />
   </a>
@@ -92,6 +92,11 @@ I like projects that connect code with real workflows: cleaner apps, useful auto
 
 ## Featured Work
 
+| Repository | Focus | Status |
+| --- | --- | --- |
+| [Pemrogaman-II](https://github.com/HeinrichRaxwell/Pemrogaman-II) | Java-focused programming coursework and practice | <img src="https://img.shields.io/github/languages/top/HeinrichRaxwell/Pemrogaman-II?style=flat-square&amp;color=0f766e" alt="Pemrogaman-II top language" /> <img src="https://img.shields.io/github/last-commit/HeinrichRaxwell/Pemrogaman-II?style=flat-square&amp;color=164e63" alt="Pemrogaman-II last commit" /> |
+| [Machine-Learning](https://github.com/HeinrichRaxwell/Machine-Learning) | Python machine-learning learning repo | <img src="https://img.shields.io/github/languages/top/HeinrichRaxwell/Machine-Learning?style=flat-square&amp;color=0f766e" alt="Machine-Learning top language" /> <img src="https://img.shields.io/github/last-commit/HeinrichRaxwell/Machine-Learning?style=flat-square&amp;color=164e63" alt="Machine-Learning last commit" /> |
+
 <details>
 <summary><b>Private and ongoing explorations</b></summary>
 <br />
@@ -108,13 +113,23 @@ These are learning and research projects, not financial advice.
 
 <div align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=HeinrichRaxwell&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;bg_color=0d1117"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeinrichRaxwell&amp;theme=github_dark"
+    width="95%"
+    alt="HeinrichRaxwell profile summary"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeinrichRaxwell&amp;theme=github_dark"
+    width="47%"
     alt="HeinrichRaxwell GitHub stats"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinrichRaxwell&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;text_color=cbd5e1&amp;bg_color=0d1117"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeinrichRaxwell&amp;theme=github_dark"
+    width="47%"
     alt="HeinrichRaxwell top languages"
   />
 </div>
@@ -143,7 +158,7 @@ These are learning and research projects, not financial advice.
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f766e,50:164e63,100:0f172a&amp;height=110&amp;section=footer"
+    src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:5eead4,25:0f766e,55:2563eb,82:0f172a,100:020617&amp;height=150&amp;section=footer&amp;text=Keep%20Learning.%20Keep%20Building.&amp;fontSize=24&amp;fontColor=f8fafc&amp;animation=fadeIn&amp;fontAlignY=72&amp;fontFamily=Arial%20Black&amp;stroke=38bdf8&amp;strokeWidth=1"
     alt="Profile footer"
   />
   <br />

@@ -92,11 +92,6 @@ I like projects that connect code with real workflows: cleaner apps, useful auto
 
 ## Featured Work
 
-| Repository | Focus | Status |
-| --- | --- | --- |
-| [Pemrogaman-II](https://github.com/HeinrichRaxwell/Pemrogaman-II) | Java-focused programming coursework and practice | <img src="https://img.shields.io/github/languages/top/HeinrichRaxwell/Pemrogaman-II?style=flat-square&amp;color=0f766e" alt="Pemrogaman-II top language" /> <img src="https://img.shields.io/github/last-commit/HeinrichRaxwell/Pemrogaman-II?style=flat-square&amp;color=164e63" alt="Pemrogaman-II last commit" /> |
-| [Machine-Learning](https://github.com/HeinrichRaxwell/Machine-Learning) | Python machine-learning learning repo | <img src="https://img.shields.io/github/languages/top/HeinrichRaxwell/Machine-Learning?style=flat-square&amp;color=0f766e" alt="Machine-Learning top language" /> <img src="https://img.shields.io/github/last-commit/HeinrichRaxwell/Machine-Learning?style=flat-square&amp;color=164e63" alt="Machine-Learning last commit" /> |
-
 <details>
 <summary><b>Private and ongoing explorations</b></summary>
 <br />

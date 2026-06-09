@@ -92,21 +92,6 @@ I like projects that connect code with real workflows: cleaner apps, useful auto
 
 ## Featured Work
 
-<div align="center">
-  <a href="https://github.com/HeinrichRaxwell/Pemrogaman-II">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HeinrichRaxwell&amp;repo=Pemrogaman-II&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;bg_color=0d1117"
-      alt="Pinned repository card for Pemrogaman-II"
-    />
-  </a>
-  <a href="https://github.com/HeinrichRaxwell/Machine-Learning">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HeinrichRaxwell&amp;repo=Machine-Learning&amp;theme=github_dark&amp;hide_border=true&amp;title_color=5eead4&amp;text_color=cbd5e1&amp;icon_color=38bdf8&amp;bg_color=0d1117"
-      alt="Pinned repository card for Machine-Learning"
-    />
-  </a>
-</div>
-
 <details>
 <summary><b>Private and ongoing explorations</b></summary>
 <br />

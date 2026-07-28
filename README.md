@@ -39,9 +39,19 @@
 
 ## Overview
 
-I am an **Informatics Engineering student at Universitas Pamulang** dedicated to building clean, practical, and scalable software applications.
-
-My primary technical focus centers on **Web and Mobile Development** (Flutter, iOS, React, Next.js), **Machine Learning Workflows**, and **Algorithmic Trading Systems**. I prioritize solid architecture, maintainable codebase structures, and data-driven analysis to solve real-world engineering challenges.
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <br/>
+      <p>I am an <b>Informatics Engineering student at Universitas Pamulang</b> dedicated to building clean, practical, and scalable software applications.</p>
+      <p>My primary technical focus centers on <b>Web and Mobile Development</b> (Flutter, iOS, React, Next.js), <b>Machine Learning Workflows</b>, and <b>Algorithmic Trading Systems</b>.</p>
+      <p>I prioritize solid architecture, maintainable codebase structures, and data-driven analysis to solve real-world engineering challenges.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/coding-boy.gif" width="100%" alt="Coding Boy Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 

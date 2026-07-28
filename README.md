@@ -2,14 +2,14 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30,15&height=220&section=header&text=Heinrich%20Raxwell&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%7C%20Web%20%26%20Mobile%20Development%20%7C%20Applied%20ML&descSize=16&descAlignY=68&descAlign=50&fontFamily=JetBrains+Mono&stroke=00e5ff&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30,15&height=220&section=header&text=Heinrich%20Raxwell&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20%7C%20Web%20and%20Mobile%20Development%20%7C%20Applied%20ML&descSize=16&descAlignY=68&descAlign=50&fontFamily=JetBrains+Mono&stroke=00e5ff&strokeWidth=1"
     alt="Heinrich Raxwell Header Banner"
     width="100%"
   />
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Informatics+Engineering+Student;Full-Stack+%26+Mobile+Development;Quant+%26+Algorithmic+Trading+Explorations;Machine+Learning+Workflows"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Informatics+Engineering+Student;Full-Stack+and+Mobile+Development;Quant+and+Algorithmic+Trading+Explorations;Machine+Learning+Workflows"
       alt="Typing Animation"
     />
   </a>
@@ -39,19 +39,9 @@
 
 ## Overview
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <p>I am an <b>Informatics Engineering student at Universitas Pamulang</b> dedicated to building clean, practical, and scalable software applications.</p>
-      <p>My primary technical domains include <b>Web & Mobile Development</b> (Flutter, iOS, React, Next.js), <b>Machine Learning Workflows</b>, and <b>Algorithmic Trading Systems</b>.</p>
-      <p>I focus on solid architecture, maintainable codebase structures, and data-driven analysis to solve real-world engineering challenges.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/coding.gif" width="100%" alt="Developer Animation" />
-    </td>
-  </tr>
-</table>
+I am an **Informatics Engineering student at Universitas Pamulang** dedicated to building clean, practical, and scalable software applications.
+
+My primary technical focus centers on **Web and Mobile Development** (Flutter, iOS, React, Next.js), **Machine Learning Workflows**, and **Algorithmic Trading Systems**. I prioritize solid architecture, maintainable codebase structures, and data-driven analysis to solve real-world engineering challenges.
 
 ---
 
@@ -119,14 +109,6 @@ Selected research projects—specifically market structure analysis tools, quant
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeinrichRaxwell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="HeinrichRaxwell Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinrichRaxwell&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeinrichRaxwell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeinrichRaxwell&bg_color=0d1117&color=cbd5e1&line=00e5ff&point=38bdf8&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 

@@ -1,97 +1,161 @@
-<!-- HEADER ANIMATED BANNER -->
+<!-- Profile README for HeinrichRaxwell -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d4aa&height=220&section=header&text=Hey%2C%20I'm%20Haidar%20Reyhan%20👋&fontSize=42&fontColor=00d4aa&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Informatika%20%7C%20Universitas%20Pamulang&descAlignY=58&descAlign=50" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:020617,28:0f172a,58:2563eb,82:0f766e,100:5eead4&amp;height=270&amp;section=header&amp;text=Heinrich%20Raxwell&amp;fontSize=62&amp;fontColor=f8fafc&amp;animation=scaleIn&amp;fontAlignY=43&amp;desc=Build%20%7C%20Learn%20%7C%20Ship%20%7C%20Improve&amp;descSize=18&amp;descAlignY=68&amp;descAlign=50&amp;fontFamily=Arial%20Black&amp;stroke=38bdf8&amp;strokeWidth=1"
+    alt="Heinrich Raxwell animated profile header"
+  />
 </div>
 
-<br/>
-
-<!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Mahasiswa+Teknik+Informatika+🎓;Web+Developer+in+Progress+💻;Problem+Solver+%26+Fast+Learner+🧠;Open+to+Collaboration+%26+Projects+🤝;Building+Things+One+Commit+at+a+Time+🚀" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Informatics+Engineering+Student;Building+Practical+Software+Projects;Flutter+and+iOS+Exploration;Machine+Learning+Basics;Trading+Systems+and+Market+Analysis"
+      alt="Typing animation showing current learning focus"
+    />
   </a>
 </div>
 
-<br/>
-
-<!-- BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeinrichRaxwell&label=Profile%20Views&color=00d4aa&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/HeinrichRaxwell?label=Followers&style=flat-square&color=00d4aa"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Universitas%20Pamulang-00d4aa?style=flat-square&logoColor=white"/>
-</div>
-
-<br/>
-
----
-
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
-
-- 🎓 &nbsp;Mahasiswa **Teknik Informatika** di **Universitas Pamulang**
-- 🔭 &nbsp;Lagi ngerjain **project web app & mobile**
-- 🌱 &nbsp;Lagi belajar **React, Django, dan IoT**
-- 💡 &nbsp;Suka eksplorasi teknologi baru & bikin side project
-- 🤝 &nbsp;Open buat **kolaborasi & ngerjain project bareng**
-- 📍 &nbsp;Based in **Jakarta, Indonesia**
-
-<br clear="right"/>
-
----
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeinrichRaxwell&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff" width="95%"/>
+  <img src="https://komarev.com/ghpvc/?username=HeinrichRaxwell&amp;label=Profile%20Views&amp;color=0f766e&amp;style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HeinrichRaxwell?label=Followers&amp;style=flat-square&amp;color=0f766e" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Universitas%20Pamulang-Informatics%20Engineering-164e63?style=flat-square" alt="Universitas Pamulang badge" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## Welcome To My GitHub
+
+Welcome to my GitHub profile. This is where I document what I learn, share projects, and keep improving through real practice.
+
+I'm an **Informatics Engineering student at Universitas Pamulang** who learns by building practical software projects. Saat ini fokusku ada di **web and mobile development**, **Flutter and iOS exploration**, **machine learning basics**, and **trading-system experiments**.
+
+I like projects that connect code with real workflows: cleaner apps, useful automation, data-driven analysis, and systems that can be improved step by step.
+
+---
+
+## Current Focus
+
+| Area | What I am working on |
+| --- | --- |
+| Web development | Building stronger frontend and backend fundamentals |
+| Mobile development | Exploring Flutter, Dart, and iOS app patterns |
+| Programming fundamentals | Practicing Java, Python, and project structure |
+| Machine learning | Learning model workflows, data preparation, and evaluation |
+| Trading systems | Studying market analysis, automation, and risk-aware tooling |
+| Project habits | Belajar lewat project nyata, commit kecil, dan evaluasi hasil |
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br />
+
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60a5fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15)
+![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=38bdf8)
+
+</details>
+
+<details open>
+<summary><b>Web, Backend, and Mobile</b></summary>
+<br />
+
+![HTML5](https://img.shields.io/badge/HTML5-164e63?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-164e63?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-164e63?style=for-the-badge&logo=react&logoColor=61dafb)
+![Django](https://img.shields.io/badge/Django-164e63?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-164e63?style=for-the-badge&logo=flutter&logoColor=38bdf8)
+![iOS](https://img.shields.io/badge/iOS%20Exploration-164e63?style=for-the-badge&logo=apple&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data, Database, and Tools</b></summary>
+<br />
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0f766e?style=for-the-badge&logo=scikitlearn&logoColor=f8fafc)
+![Market Analysis](https://img.shields.io/badge/Market%20Analysis-0f766e?style=for-the-badge&logo=tradingview&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f766e?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f766e?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0f766e?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f766e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0f766e?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## Featured Work
+
+<details>
+<summary><b>Private and ongoing explorations</b></summary>
+<br />
+
+Some experiments are kept private while I learn and iterate, especially around trading-system automation, market-analysis workflows, and applied machine-learning practice.
+
+These are learning and research projects, not financial advice.
+
+</details>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeinrichRaxwell&amp;theme=github_dark"
+    width="95%"
+    alt="HeinrichRaxwell profile summary"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeinrichRaxwell&amp;theme=github_dark"
+    width="47%"
+    alt="HeinrichRaxwell GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeinrichRaxwell&amp;theme=github_dark"
+    width="47%"
+    alt="HeinrichRaxwell top languages"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HeinrichRaxwell&amp;bg_color=0d1117&amp;color=cbd5e1&amp;line=5eead4&amp;point=38bdf8&amp;area=true&amp;hide_border=true"
+    width="95%"
+    alt="HeinrichRaxwell contribution activity graph"
+  />
+</div>
+
+---
+
+## Connect
 
 <div align="center">
   <a href="https://instagram.com/visivora">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-visivora-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram visivora" />
   </a>
 </div>
 
-<br/>
-
 ---
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:1a1b27,100:0d1117&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." — John Johnson</i>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:5eead4,25:0f766e,55:2563eb,82:0f172a,100:020617&amp;height=150&amp;section=footer&amp;text=Keep%20Learning.%20Keep%20Building.&amp;fontSize=24&amp;fontColor=f8fafc&amp;animation=fadeIn&amp;fontAlignY=72&amp;fontFamily=Arial%20Black&amp;stroke=38bdf8&amp;strokeWidth=1"
+    alt="Profile footer"
+  />
+  <br />
+  <i>"Build quietly. Learn deeply. Ship honestly."</i>
 </div>

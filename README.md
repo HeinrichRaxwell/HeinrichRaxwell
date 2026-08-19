@@ -116,10 +116,9 @@ Selected research projects—specifically market structure analysis tools, quant
 ## GitHub Performance
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeinrichRaxwell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="HeinrichRaxwell Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinrichRaxwell&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=HeinrichRaxwell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="HeinrichRaxwell Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=HeinrichRaxwell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HeinrichRaxwell&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---

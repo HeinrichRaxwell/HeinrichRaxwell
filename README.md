@@ -113,13 +113,18 @@ Selected research projects—specifically market structure analysis tools, quant
 
 ---
 
-## GitHub Performance
+## GitHub Performance & Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HeinrichRaxwell&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="HeinrichRaxwell Trophies" />
+</div>
 
+<br/>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeinrichRaxwell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="HeinrichRaxwell Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HeinrichRaxwell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeinrichRaxwell&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
 </div>
 
 ---
